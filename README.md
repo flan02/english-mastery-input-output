@@ -5,5 +5,5 @@ The objective is to read complex texts, understand them, and produce new writing
 ## command to create a new archive daily
 
 ```bash
-mkdir -p $(date +%Y-%m-%d) && touch $(date +%Y-%m-%d)/{01-article-topic.md,02-submission.md,03-corrected.md}
+mkdir -p $(date +%Y-%m-%d) && touch $(date +%Y-%m-%d)/{01-article-topic.md,02-submission.md,03-corrected.md,04-vocabulary.md}
 ```
