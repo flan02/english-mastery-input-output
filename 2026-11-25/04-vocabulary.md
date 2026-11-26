@@ -1,0 +1,10 @@
+## Target Vocabulary & Grammar Focus (Day 8)
+
+* **Orchestration engine** (motor de orquestación / coordinación de tareas)
+* **Deterministic guardrails** (controles / barreras deterministas y predecibles)
+* **Probabilistic reasoning** (razonamiento probabilístico)
+* **Human-in-the-loop** (supervisión o aprobación humana dentro del flujo)
+* **Edge case** (caso límite / escenario atípico)
+* **Inference costs / Latency** (costos de inferencia / latencia o tiempo de respuesta)
+* **Fault tolerance** (tolerancia a fallos)
+* **Mission-critical workflows** (flujos de trabajo críticos para el negocio)
